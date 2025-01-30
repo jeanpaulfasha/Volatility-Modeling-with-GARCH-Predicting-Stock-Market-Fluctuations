@@ -1,0 +1,1 @@
+# Volatility-Modeling-with-GARCH-Predicting-Stock-Market-Fluctuations
